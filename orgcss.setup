@@ -12,7 +12,7 @@
 # Depths 1 to 3 are for numbered sections.
 # Depth 4 is for unnumbered prepare.
 # Depth 5 and more will create unnumbered lists, not recommended to use.
-#+OPTIONS: H:4 num:3
+#+OPTIONS: H:4 num:3 toc:3
 # Show 1 to 3 first levels (i.e. sections) when opening the file.
 #+STARTUP: show3levels
 
