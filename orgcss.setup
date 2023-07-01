@@ -11,4 +11,4 @@
 
 * Style
 
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/pierreay/orgcss/master/src/css/org.css"/> 
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/home/pierre/work/info/org/orgcss/docs/org.css"/> 
