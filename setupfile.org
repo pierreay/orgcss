@@ -1,0 +1,12 @@
+* Author
+
+#+AUTHOR: Pierre AYOUB
+
+* Redaction
+
+#+LANGUAGE: en
+#+OPTIONS: H:4 num:3
+
+* Style
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/pierreay/orgcss/master/src/css/org.css"/> 
