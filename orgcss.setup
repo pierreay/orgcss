@@ -1,18 +1,23 @@
 ;;; -*- mode: org; -*-
 
-* Viewing
-
-#+STARTUP: show2levels
-
 * Author
 
+# Author name.
 #+AUTHOR: Pierre AYOUB
 
 * Redaction
 
+# Redacted language (defines language of automatically exported keywords).
 #+LANGUAGE: en
+# Depths 1 to 3 are for numbered sections.
+# Depth 4 is for unnumbered prepare.
+# Depth 5 and more will create unnumbered lists, not recommended to use.
 #+OPTIONS: H:4 num:3
+# Show 1 to 3 first levels (i.e. sections) when opening the file.
+#+STARTUP: show3levels
 
 * Style
 
+# Use our custom CSS file.
+# FIXME: Try to use an HTTP link instead of a local link.
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/home/pierre/work/info/org/orgcss/docs/org.css"/> 
