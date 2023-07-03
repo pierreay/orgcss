@@ -21,3 +21,8 @@
 # Use our custom CSS file.
 # FIXME: Try to use an HTTP link instead of a local link.
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/home/pierre/work/info/org/orgcss/docs/org.css"/> 
+
+* Code Blocks
+
+# Don't evaluate code blocks on export by default.
+#+PROPERTY: header-args :eval no-export
