@@ -1,5 +1,13 @@
 ;;; -*- mode: org; -*-
 
+* About
+
+To use this setup file and this HTML theme, simply include the following line
+at the top of your Org document:
+#+begin_src org
+#+SETUPFILE: https://raw.githubusercontent.com/pierreay/orgcss/master/orgcss.setup
+#+end_src
+
 * Author
 
 # Author name.
