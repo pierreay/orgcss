@@ -28,7 +28,7 @@ at the top of your Org document:
 
 # Use our custom CSS file.
 # FIXME: Try to use an HTTP link instead of a local link.
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/home/drac/git/orgcss/docs/org.css"/> 
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/home/drac/git/org-css/docs/org.css"/> 
 
 * Code Blocks
 
