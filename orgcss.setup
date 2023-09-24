@@ -17,8 +17,8 @@ at the top of your Org document:
 
 # Redacted language (defines language of automatically exported keywords).
 #+LANGUAGE: en
-# Depths 1 to 3 are for numbered sections.
-# Depth 4 is for unnumbered prepare.
+# Depths 1 to 3 are for numbered sections: chapter, section, sub-section.
+# Depth 4 is for unnumbered sections: paragraph.
 # Depth 5 and more will create unnumbered lists, not recommended to use.
 #+OPTIONS: H:4 num:3 toc:3
 # Show 1 to 3 first levels (i.e. sections) when opening the file.
